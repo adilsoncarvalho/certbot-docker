@@ -1,4 +1,4 @@
-FROM certbot/certbot:v0.21.0
+FROM certbot/certbot:v0.28.0
 
 MAINTAINER "Adilson Carvalho <lc.adilson@gmail.com>"
 
